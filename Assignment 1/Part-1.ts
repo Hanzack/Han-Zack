@@ -32,7 +32,7 @@ const subtract: Calculator = (x, y) => x - y;
 // Interface is used to define object shapes
 // Type alias can define any type (object, function, union, etc.)
 // Function with typed parameters and typed return
-function multiply(a: number, b: number): number {
+function multiplyNumbers(a: number, b: number): number {
   return a * b;
 }
 
@@ -51,4 +51,4 @@ function getLength(input: string | number): number {
   }
 }
 // Example usage of the functions
-const sum = add(5, 10);
+const addResult = add(5, 10);
