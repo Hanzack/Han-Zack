@@ -27,3 +27,5 @@ yarn-error.log*
 
 # VS Code settings
 .vscode/
+# IntelliJ IDEA settings
+.idea/
