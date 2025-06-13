@@ -1,0 +1,7 @@
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="09856098glk5yu598659k6h508"/>
+
+within <application></application> tag
